@@ -16,9 +16,9 @@ De website is enigszins te vergelijken met reddit of outpost.tf maar toch anders
 | b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
-| b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | PNG Image op deviantArt |
+| b1-k1-w2 Sfeer impressie       | DONE | [doc/1/moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
-| b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
+| b1-k1-w2 FLowChart             | DONE | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
    [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
